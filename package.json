@@ -1,0 +1,11 @@
+{
+  "name": "renovate-overrides-lockfile-repro",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "glob": "10.4.5"
+  },
+  "overrides": {
+    "minimatch": "^9.0.0"
+  }
+}
